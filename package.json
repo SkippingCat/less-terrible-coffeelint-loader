@@ -11,7 +11,7 @@
     "text-table": "^0.2.0"
   },
   "peerDependencies": {
-    "coffeelint": "^1.6.0"
+    "coffeelint": "^2.1.0"
   },
   "repository": {
     "type": "git",
